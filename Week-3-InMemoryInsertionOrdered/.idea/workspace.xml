@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ed8313a-4543-411b-a1e2-ea77dab5d4d2" name="Changes" comment="" />
+    <list default="true" id="6ed8313a-4543-411b-a1e2-ea77dab5d4d2" name="Changes" comment="Week 3 Tasks Completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +61,15 @@
       <option name="presentableId" value="Default" />
       <updated>1786029267666</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week 3 Tasks Completed">
+      <option name="closed" value="true" />
+      <created>1787150539066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787150539066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 3 Tasks Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Tasks Completed" />
   </component>
 </project>
